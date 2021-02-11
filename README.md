@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Fri Feb 12 2021 04:24:35 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Feb 12 2021 04:29:44 GMT+0800 (CST) -->
 1. [牛年春晚](https://so.toutiao.com/search?keyword=牛年春晚)
 1. [黄晓明晒与家人过年照](https://so.toutiao.com/search?keyword=黄晓明晒与家人过年照)
 1. [岳云鹏：春晚下班第一人](https://so.toutiao.com/search?keyword=岳云鹏：春晚下班第一人)
@@ -51,23 +51,23 @@
 1. [北京多所高校开学不返校线上授课](https://so.toutiao.com/search?keyword=北京多所高校开学不返校线上授课)
 1. [夏林茂任北京市委常委](https://so.toutiao.com/search?keyword=夏林茂任北京市委常委)
 1. [黄子韬脖子上是一张英俊潇洒的脸](https://so.toutiao.com/search?keyword=黄子韬脖子上是一张英俊潇洒的脸)
-1. [北京全面核查全款购房资金源](https://so.toutiao.com/search?keyword=北京全面核查全款购房资金源)
 1. [教育部：做好线上教学各项准备](https://so.toutiao.com/search?keyword=教育部：做好线上教学各项准备)
 1. [美军三艘航母同时现身亚太](https://so.toutiao.com/search?keyword=美军三艘航母同时现身亚太)
-1. [陈光标回老家过年 门口停满豪车](https://so.toutiao.com/search?keyword=陈光标回老家过年+门口停满豪车)
+1. [北京全面核查全款购房资金源](https://so.toutiao.com/search?keyword=北京全面核查全款购房资金源)
 1. [王晓晨身材微胖](https://so.toutiao.com/search?keyword=王晓晨身材微胖)
+1. [陈光标回老家过年 门口停满豪车](https://so.toutiao.com/search?keyword=陈光标回老家过年+门口停满豪车)
 1. [解放军军机除夕中午进台湾空域](https://so.toutiao.com/search?keyword=解放军军机除夕中午进台湾空域)
 1. [李思思口红色号](https://so.toutiao.com/search?keyword=李思思口红色号)
 1. [张杰易烊千玺首次春晚合唱](https://so.toutiao.com/search?keyword=张杰易烊千玺首次春晚合唱)
-1. [张艺兴《画卷》演绎最燃中国风](https://so.toutiao.com/search?keyword=张艺兴《画卷》演绎最燃中国风)
-1. [爸妈最喜欢的央视春晚明星](https://so.toutiao.com/search?keyword=爸妈最喜欢的央视春晚明星)
 1. [武汉卓尔周通公开讨薪](https://so.toutiao.com/search?keyword=武汉卓尔周通公开讨薪)
+1. [爸妈最喜欢的央视春晚明星](https://so.toutiao.com/search?keyword=爸妈最喜欢的央视春晚明星)
+1. [张艺兴《画卷》演绎最燃中国风](https://so.toutiao.com/search?keyword=张艺兴《画卷》演绎最燃中国风)
 1. [拜登组建国防部中国问题特别工作组](https://so.toutiao.com/search?keyword=拜登组建国防部中国问题特别工作组)
 1. [吴京把结婚照搬上春晚](https://so.toutiao.com/search?keyword=吴京把结婚照搬上春晚)
 1. [春晚小品倪妮变空姐](https://so.toutiao.com/search?keyword=春晚小品倪妮变空姐)
-1. [澳总理祝贺中国春节](https://so.toutiao.com/search?keyword=澳总理祝贺中国春节)
-1. [尼格买提发型撞脸大头儿子](https://so.toutiao.com/search?keyword=尼格买提发型撞脸大头儿子)
 1. [科洛莫瑞兹最新写真](https://so.toutiao.com/search?keyword=科洛莫瑞兹最新写真)
+1. [尼格买提发型撞脸大头儿子](https://so.toutiao.com/search?keyword=尼格买提发型撞脸大头儿子)
+1. [澳总理祝贺中国春节](https://so.toutiao.com/search?keyword=澳总理祝贺中国春节)
 1. [工信部：推动手机等产品适老化](https://so.toutiao.com/search?keyword=工信部：推动手机等产品适老化)
 1. [春晚现场观众戴口罩](https://so.toutiao.com/search?keyword=春晚现场观众戴口罩)
 1. [秦昊春晚再唱小白船](https://so.toutiao.com/search?keyword=秦昊春晚再唱小白船)
@@ -95,7 +95,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Fri Feb 12 2021 04:24:35 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Feb 12 2021 04:29:44 GMT+0800 (CST) -->
 1. [春晚看点啥？](https://www.zhihu.com/search?q=春晚)
 1. [除夕文案准备好了吗？](https://www.zhihu.com/search?q=除夕文案)
 1. [春节祝福文案](https://www.zhihu.com/search?q=春节祝福文案)
@@ -114,7 +114,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Feb 12 2021 04:24:35 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Feb 12 2021 04:29:44 GMT+0800 (CST) -->
 1. [2021 年央视春晚中有哪些亮点？](https://www.zhihu.com/question/443967466)
 1. [有哪些文艺的拜年文案？](https://www.zhihu.com/question/442938241)
 1. [如何评价岳云鹏和孙越在 2021 央视春晚上表演的相声《年三十的歌》？](https://www.zhihu.com/question/443968904)
@@ -127,9 +127,9 @@
 1. [2021年微信红包封面如何免费获取？](https://www.zhihu.com/question/441208207)
 1. [小黄人讲的是什么语言？](https://www.zhihu.com/question/30830614)
 1. [如何评价 2021 年春晚张艺兴的中国风 MPOP 舞台《画卷》？](https://www.zhihu.com/question/443852598)
-1. [如何评价王一博在 2021 央视春晚中的表现？](https://www.zhihu.com/question/443970375)
-1. [跟男朋友吵架，我浇了他一头啤酒，他扇了我三巴掌，我应该分手吗？](https://www.zhihu.com/question/443638273)
 1. [和老婆刚结婚一个月，她突然确诊了肿瘤晚期，医院放弃治疗，回家吃靶向药，老婆并不知道实情，我怎么办？](https://www.zhihu.com/question/443414127)
+1. [跟男朋友吵架，我浇了他一头啤酒，他扇了我三巴掌，我应该分手吗？](https://www.zhihu.com/question/443638273)
+1. [如何评价王一博在 2021 央视春晚中的表现？](https://www.zhihu.com/question/443970375)
 1. [爸妈认为公务员老师医生等体制内才是正经工作，春节劝我辞职，我该怎么让爸妈认识到我在互联网工作也不错？](https://www.zhihu.com/question/443810427)
 1. [研究称地球自转加快，一天已不足24小时，是什么原因造成的，会有什么影响？](https://www.zhihu.com/question/443828984)
 1. [为什么应届生的身份这么值钱？](https://www.zhihu.com/question/296366864)
@@ -145,19 +145,19 @@
 1. [有一天院儿里的猪和你说，他们是有着高智慧的猪星人，早已搜集齐了人类信息，马上大举入侵地球，你怎么办？](https://www.zhihu.com/question/443584192)
 1. [高中开学怎么做才能让全校震惊?](https://www.zhihu.com/question/443563059)
 1. [为什么在《进击的巨人》中把帕岛带入日本后，我就突然觉得不好看了？](https://www.zhihu.com/question/442280742)
-1. [看完《战狼2》感觉非洲很乱，这是真的吗？](https://www.zhihu.com/question/63368523)
 1. [2021 年初，想买一部 3000 元左右的手机有哪些推荐？](https://www.zhihu.com/question/437319390)
+1. [看完《战狼2》感觉非洲很乱，这是真的吗？](https://www.zhihu.com/question/63368523)
 1. [CPA 月薪大约是多少?](https://www.zhihu.com/question/411797031)
 1. [月子期间只有自己和老公能行吗？](https://www.zhihu.com/question/441590859)
 1. [当年爸妈不让你嫁的人你嫁了吗？](https://www.zhihu.com/question/443594106)
 1. [怎样的头像会显得逼格很高？](https://www.zhihu.com/question/267112594)
 1. [各所大学有哪些讲课很有水平、能迅速吸引外行听众的大学教授？](https://www.zhihu.com/question/438746253)
-1. [听完春晚上成龙李玟周冬雨朱一龙等表演的《明天会更好》你有什么感慨？你想起当时解封的故事了吗？](https://www.zhihu.com/question/443976527)
 1. [如何判断一个人有文科天赋？](https://www.zhihu.com/question/438266130)
+1. [听完春晚上成龙李玟周冬雨朱一龙等表演的《明天会更好》你有什么感慨？你想起当时解封的故事了吗？](https://www.zhihu.com/question/443976527)
 1. [有没有什么修罗场很多同时又要不翻车的女主向小说？](https://www.zhihu.com/question/348722107)
+1. [如何看待《王者荣耀》2 月 11 日点券扣除皮肤没到账的 bug ?](https://www.zhihu.com/question/443891371)
 1. [为什么我感觉夜店蹦迪很陋（LOW），你们怎么认为？](https://www.zhihu.com/question/265577613)
 1. [为什么饭店里的鸡汤很清，而且还特别的好喝？](https://www.zhihu.com/question/437783371)
-1. [如何看待《王者荣耀》2 月 11 日点券扣除皮肤没到账的 bug ?](https://www.zhihu.com/question/443891371)
 1. [如何评价张杰和易烊千玺表演的歌曲《亲戚》？](https://www.zhihu.com/question/443980649)
 1. [为什么豆瓣上的电视剧《斗罗大陆》没有评分？](https://www.zhihu.com/question/443596555)
 1. [2021年春节文案怎么写？](https://www.zhihu.com/question/434616006)
@@ -185,7 +185,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Fri Feb 12 2021 04:24:35 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Feb 12 2021 04:29:44 GMT+0800 (CST) -->
 1. [拜年达人刘玄德！](https://www.zhihu.com/zvideo/1343183719264313344)
 1. [潜入：美国人坐下！中国人要开始吃肉了](https://www.zhihu.com/zvideo/1343198419779829760)
 1. [老饭骨给大家拜年啦！](https://www.zhihu.com/zvideo/1343303977207799809)
@@ -210,14 +210,14 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Fri Feb 12 2021 04:24:35 GMT+0800 (CST) -->
-1. [首都除夕护卫健康](https://s.weibo.com//weibo?q=%23%E9%A6%96%E9%83%BD%E9%99%A4%E5%A4%95%E6%8A%A4%E5%8D%AB%E5%81%A5%E5%BA%B7%23&Refer=new_time)
+<!-- 最后更新时间 Fri Feb 12 2021 04:29:44 GMT+0800 (CST) -->
+1. [春节168小时](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82168%E5%B0%8F%E6%97%B6%23&Refer=new_time)
 1. [薇娅是不是穿了唐艺昕的毛衣](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A9%BF%E4%BA%86%E5%94%90%E8%89%BA%E6%98%95%E7%9A%84%E6%AF%9B%E8%A1%A3&Refer=top)
 1. [不允许BBC继续在中国境内落地](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%85%81%E8%AE%B8BBC%E7%BB%A7%E7%BB%AD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A2%83%E5%86%85%E8%90%BD%E5%9C%B0%23&Refer=top)
 1. [杨幂金晨李沁过于养眼](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E9%87%91%E6%99%A8%E6%9D%8E%E6%B2%81%E8%BF%87%E4%BA%8E%E5%85%BB%E7%9C%BC%23&Refer=top)
-1. [五福](https://s.weibo.com//weibo?q=%23%E4%BA%94%E7%A6%8F%23&Refer=top)
-1. [春晚段子大考](https://s.weibo.com//weibo?q=%E6%98%A5%E6%99%9A%E6%AE%B5%E5%AD%90%E5%A4%A7%E8%80%83&Refer=top)
 1. [大年初一](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80&Refer=top)
+1. [春晚段子大考](https://s.weibo.com//weibo?q=%E6%98%A5%E6%99%9A%E6%AE%B5%E5%AD%90%E5%A4%A7%E8%80%83&Refer=top)
+1. [五福](https://s.weibo.com//weibo?q=%23%E4%BA%94%E7%A6%8F%23&Refer=top)
 1. [终于等到周杰伦](https://s.weibo.com//weibo?q=%23%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%23&Refer=top)
 1. [天龙山石窟流失佛首回归祖国](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%BE%99%E5%B1%B1%E7%9F%B3%E7%AA%9F%E6%B5%81%E5%A4%B1%E4%BD%9B%E9%A6%96%E5%9B%9E%E5%BD%92%E7%A5%96%E5%9B%BD%23&Refer=top)
 1. [易烊千玺是不是又戴假发了](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8F%88%E6%88%B4%E5%81%87%E5%8F%91%E4%BA%86%23&Refer=top)
@@ -225,20 +225,20 @@
 1. [刘烨你能不能好好拿话筒](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%83%A8%E4%BD%A0%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%A5%BD%E6%8B%BF%E8%AF%9D%E7%AD%92%23&Refer=top)
 1. [新年文案](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E6%96%87%E6%A1%88&Refer=top)
 1. [女孩提到去年春节哽咽了](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%8F%90%E5%88%B0%E5%8E%BB%E5%B9%B4%E6%98%A5%E8%8A%82%E5%93%BD%E5%92%BD%E4%BA%86%23&Refer=top)
-1. [春晚](https://s.weibo.com//weibo?q=%E6%98%A5%E6%99%9A&Refer=top)
+1. [成龙是去劝架的吧](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%BE%99%E6%98%AF%E5%8E%BB%E5%8A%9D%E6%9E%B6%E7%9A%84%E5%90%A7%23&Refer=top)
 1. [微博红包](https://s.weibo.com//weibo?q=%E5%BE%AE%E5%8D%9A%E7%BA%A2%E5%8C%85&Refer=top)
 1. [张嘉倪 漂亮](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%98%89%E5%80%AA%20%E6%BC%82%E4%BA%AE&Refer=top)
-1. [成龙是去劝架的吧](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%BE%99%E6%98%AF%E5%8E%BB%E5%8A%9D%E6%9E%B6%E7%9A%84%E5%90%A7%23&Refer=top)
 1. [张小斐毛衣](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%AF%9B%E8%A1%A3%23&Refer=top)
-1. [张梓琳怀孕6个月状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A2%93%E7%90%B3%E6%80%80%E5%AD%956%E4%B8%AA%E6%9C%88%E7%8A%B6%E6%80%81%23&Refer=top)
 1. [守岁](https://s.weibo.com//weibo?q=%E5%AE%88%E5%B2%81&Refer=top)
+1. [张梓琳怀孕6个月状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A2%93%E7%90%B3%E6%80%80%E5%AD%956%E4%B8%AA%E6%9C%88%E7%8A%B6%E6%80%81%23&Refer=top)
 1. [刘德华王一博关晓彤都属牛](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%85%B3%E6%99%93%E5%BD%A4%E9%83%BD%E5%B1%9E%E7%89%9B%23&Refer=top)
 1. [牛年第一条微博](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&Refer=top)
+1. [朱鹮绝美](https://s.weibo.com//weibo?q=%E6%9C%B1%E9%B9%AE%E7%BB%9D%E7%BE%8E&Refer=top)
 1. [除夕的夜空](https://s.weibo.com//weibo?q=%23%E9%99%A4%E5%A4%95%E7%9A%84%E5%A4%9C%E7%A9%BA%23&Refer=top)
 1. [春晚到底有几个李宇春](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%99%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%87%A0%E4%B8%AA%E6%9D%8E%E5%AE%87%E6%98%A5%23&Refer=top)
-1. [朱鹮绝美](https://s.weibo.com//weibo?q=%E6%9C%B1%E9%B9%AE%E7%BB%9D%E7%BE%8E&Refer=top)
-1. [清空购物车](https://s.weibo.com//weibo?q=%E6%B8%85%E7%A9%BA%E8%B4%AD%E7%89%A9%E8%BD%A6&Refer=top)
 1. [盖娅传说](https://s.weibo.com//weibo?q=%23%E7%9B%96%E5%A8%85%E4%BC%A0%E8%AF%B4%23&Refer=top)
+1. [清空购物车](https://s.weibo.com//weibo?q=%E6%B8%85%E7%A9%BA%E8%B4%AD%E7%89%A9%E8%BD%A6&Refer=top)
+1. [春晚](https://s.weibo.com//weibo?q=%E6%98%A5%E6%99%9A&Refer=top)
 1. [全国1亿多人就地过年](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD1%E4%BA%BF%E5%A4%9A%E4%BA%BA%E5%B0%B1%E5%9C%B0%E8%BF%87%E5%B9%B4%23&Refer=top)
 1. [郑州东站到了](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E4%B8%9C%E7%AB%99%E5%88%B0%E4%BA%86&Refer=top)
 1. [春晚魔术](https://s.weibo.com//weibo?q=%E6%98%A5%E6%99%9A%E9%AD%94%E6%9C%AF&Refer=top)
@@ -250,18 +250,18 @@
 1. [放烟花](https://s.weibo.com//weibo?q=%E6%94%BE%E7%83%9F%E8%8A%B1&Refer=top)
 1. [迪士尼新春烟花](https://s.weibo.com//weibo?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%96%B0%E6%98%A5%E7%83%9F%E8%8A%B1&Refer=top)
 1. [男生和室友在宿舍拍年味全家福](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E5%92%8C%E5%AE%A4%E5%8F%8B%E5%9C%A8%E5%AE%BF%E8%88%8D%E6%8B%8D%E5%B9%B4%E5%91%B3%E5%85%A8%E5%AE%B6%E7%A6%8F%23&Refer=top)
-1. [包饺子](https://s.weibo.com//weibo?q=%E5%8C%85%E9%A5%BA%E5%AD%90&Refer=top)
 1. [福牛](https://s.weibo.com//weibo?q=%E7%A6%8F%E7%89%9B&Refer=top)
+1. [包饺子](https://s.weibo.com//weibo?q=%E5%8C%85%E9%A5%BA%E5%AD%90&Refer=top)
 1. [让红包飞](https://s.weibo.com//weibo?q=%E8%AE%A9%E7%BA%A2%E5%8C%85%E9%A3%9E&Refer=top)
 1. [新年表情包](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E8%A1%A8%E6%83%85%E5%8C%85&Refer=top)
-1. [新年快乐](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top)
 1. [没戴上口罩的口罩](https://s.weibo.com//weibo?q=%E6%B2%A1%E6%88%B4%E4%B8%8A%E5%8F%A3%E7%BD%A9%E7%9A%84%E5%8F%A3%E7%BD%A9&Refer=top)
+1. [新年快乐](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top)
 1. [NBA](https://s.weibo.com//weibo?q=NBA&Refer=top)
 1. [新闻联播主播拜年](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E4%B8%BB%E6%92%AD%E6%8B%9C%E5%B9%B4%23&Refer=top)
 1. [大年三十](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B9%B4%E4%B8%89%E5%8D%81&Refer=top)
 1. [核酸检测门诊医务人员的新春愿望](https://s.weibo.com//weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%97%A8%E8%AF%8A%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E7%9A%84%E6%96%B0%E6%98%A5%E6%84%BF%E6%9C%9B%23&Refer=top)
 1. [唐艺昕毛衣](https://s.weibo.com//weibo?q=%E5%94%90%E8%89%BA%E6%98%95%E6%AF%9B%E8%A1%A3&Refer=top)
-1. [春节168小时](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82168%E5%B0%8F%E6%97%B6%23&Refer=new_time)
+1. [首都除夕护卫健康](https://s.weibo.com//weibo?q=%23%E9%A6%96%E9%83%BD%E9%99%A4%E5%A4%95%E6%8A%A4%E5%8D%AB%E5%81%A5%E5%BA%B7%23&Refer=new_time)
 1. [雷佳军装](https://s.weibo.com//weibo?q=%E9%9B%B7%E4%BD%B3%E5%86%9B%E8%A3%85&Refer=top)
 1. [过年不回家](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%B9%B4%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
 1. [刘烨你能不能好好拿话筒](https://s.weibo.com//weibo?q=%E5%88%98%E7%83%A8%E4%BD%A0%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%A5%BD%E6%8B%BF%E8%AF%9D%E7%AD%92&Refer=top)
