@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Fri Feb 12 2021 06:09:30 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Feb 12 2021 06:16:12 GMT+0800 (CST) -->
 1. [牛年春晚](https://so.toutiao.com/search?keyword=牛年春晚)
 1. [黄晓明晒与家人过年照](https://so.toutiao.com/search?keyword=黄晓明晒与家人过年照)
 1. [岳云鹏：春晚下班第一人](https://so.toutiao.com/search?keyword=岳云鹏：春晚下班第一人)
@@ -37,27 +37,27 @@
 1. [弹劾审判首日 特朗普3个没想到](https://so.toutiao.com/search?keyword=弹劾审判首日+特朗普3个没想到)
 1. [牛年春晚哪位女星造型最亮眼](https://so.toutiao.com/search?keyword=牛年春晚哪位女星造型最亮眼)
 1. [吴京甄子丹春晚对决](https://so.toutiao.com/search?keyword=吴京甄子丹春晚对决)
-1. [春晚开场舞明星颜值逆天](https://so.toutiao.com/search?keyword=春晚开场舞明星颜值逆天)
 1. [李思思35岁主持了8次春晚](https://so.toutiao.com/search?keyword=李思思35岁主持了8次春晚)
+1. [春晚开场舞明星颜值逆天](https://so.toutiao.com/search?keyword=春晚开场舞明星颜值逆天)
 1. [刘德华王一博关晓彤都属牛](https://so.toutiao.com/search?keyword=刘德华王一博关晓彤都属牛)
 1. [淘宝牛年锦鲤：牛、车、茅台都不要](https://so.toutiao.com/search?keyword=淘宝牛年锦鲤：牛、车、茅台都不要)
 1. [央视春晚镜头下的明星有多真实](https://so.toutiao.com/search?keyword=央视春晚镜头下的明星有多真实)
-1. [教育部：做好线上教学各项准备](https://so.toutiao.com/search?keyword=教育部：做好线上教学各项准备)
 1. [刘德华春晚再唱恭喜发财](https://so.toutiao.com/search?keyword=刘德华春晚再唱恭喜发财)
+1. [教育部：做好线上教学各项准备](https://so.toutiao.com/search?keyword=教育部：做好线上教学各项准备)
 1. [缅甸数万人罢工 拒绝与军政府合作](https://so.toutiao.com/search?keyword=缅甸数万人罢工+拒绝与军政府合作)
 1. [明星们年夜饭怎么吃的](https://so.toutiao.com/search?keyword=明星们年夜饭怎么吃的)
 1. [贾玲又演妈了](https://so.toutiao.com/search?keyword=贾玲又演妈了)
-1. [工信部：推动手机等产品适老化](https://so.toutiao.com/search?keyword=工信部：推动手机等产品适老化)
 1. [张杰易烊千玺首次春晚合唱](https://so.toutiao.com/search?keyword=张杰易烊千玺首次春晚合唱)
 1. [夏林茂任北京市委常委](https://so.toutiao.com/search?keyword=夏林茂任北京市委常委)
+1. [工信部：推动手机等产品适老化](https://so.toutiao.com/search?keyword=工信部：推动手机等产品适老化)
+1. [陈光标回老家过年 门口停满豪车](https://so.toutiao.com/search?keyword=陈光标回老家过年+门口停满豪车)
 1. [张艺兴《画卷》演绎最燃中国风](https://so.toutiao.com/search?keyword=张艺兴《画卷》演绎最燃中国风)
 1. [北京全面核查全款购房资金源](https://so.toutiao.com/search?keyword=北京全面核查全款购房资金源)
-1. [陈光标回老家过年 门口停满豪车](https://so.toutiao.com/search?keyword=陈光标回老家过年+门口停满豪车)
-1. [王晓晨身材微胖](https://so.toutiao.com/search?keyword=王晓晨身材微胖)
-1. [春晚记录了贾玲的变胖史](https://so.toutiao.com/search?keyword=春晚记录了贾玲的变胖史)
 1. [春晚现场观众戴口罩](https://so.toutiao.com/search?keyword=春晚现场观众戴口罩)
-1. [美军三艘航母同时现身亚太](https://so.toutiao.com/search?keyword=美军三艘航母同时现身亚太)
+1. [春晚记录了贾玲的变胖史](https://so.toutiao.com/search?keyword=春晚记录了贾玲的变胖史)
+1. [王晓晨身材微胖](https://so.toutiao.com/search?keyword=王晓晨身材微胖)
 1. [黄子韬脖子上是一张英俊潇洒的脸](https://so.toutiao.com/search?keyword=黄子韬脖子上是一张英俊潇洒的脸)
+1. [美军三艘航母同时现身亚太](https://so.toutiao.com/search?keyword=美军三艘航母同时现身亚太)
 1. [武汉卓尔周通公开讨薪](https://so.toutiao.com/search?keyword=武汉卓尔周通公开讨薪)
 1. [李思思口红色号](https://so.toutiao.com/search?keyword=李思思口红色号)
 1. [北京多所高校开学不返校线上授课](https://so.toutiao.com/search?keyword=北京多所高校开学不返校线上授课)
@@ -71,10 +71,11 @@
 1. [春晚小品倪妮变空姐](https://so.toutiao.com/search?keyword=春晚小品倪妮变空姐)
 1. [现实版荒岛求生：吃椰子存活33天](https://so.toutiao.com/search?keyword=现实版荒岛求生：吃椰子存活33天)
 1. [秦昊春晚再唱小白船](https://so.toutiao.com/search?keyword=秦昊春晚再唱小白船)
-1. [美华裔学生遭枪杀 或为情杀](https://so.toutiao.com/search?keyword=美华裔学生遭枪杀+或为情杀)
 1. [38年春晚的流行语](https://so.toutiao.com/search?keyword=38年春晚的流行语)
-1. [张也周深 灯火里的中国](https://so.toutiao.com/search?keyword=张也周深+灯火里的中国)
+1. [美华裔学生遭枪杀 或为情杀](https://so.toutiao.com/search?keyword=美华裔学生遭枪杀+或为情杀)
+1. [亚洲杯中国男篮或仅剩一个对手](https://so.toutiao.com/search?keyword=亚洲杯中国男篮或仅剩一个对手)
 1. [李现问李一桐叫她弟妹还是小姨](https://so.toutiao.com/search?keyword=李现问李一桐叫她弟妹还是小姨)
+1. [张也周深 灯火里的中国](https://so.toutiao.com/search?keyword=张也周深+灯火里的中国)
 1. [科洛莫瑞兹最新写真](https://so.toutiao.com/search?keyword=科洛莫瑞兹最新写真)
 1. [纽约帝国大厦点亮“中国红”](https://so.toutiao.com/search?keyword=纽约帝国大厦点亮“中国红”)
 1. [央视镜头下的薇娅](https://so.toutiao.com/search?keyword=央视镜头下的薇娅)
@@ -97,7 +98,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Fri Feb 12 2021 06:09:30 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Feb 12 2021 06:16:12 GMT+0800 (CST) -->
 1. [春晚看点啥？](https://www.zhihu.com/search?q=春晚)
 1. [除夕文案准备好了吗？](https://www.zhihu.com/search?q=除夕文案)
 1. [春节祝福文案](https://www.zhihu.com/search?q=春节祝福文案)
@@ -116,7 +117,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Feb 12 2021 06:09:30 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Feb 12 2021 06:16:12 GMT+0800 (CST) -->
 1. [2021 年央视春晚中有哪些亮点？](https://www.zhihu.com/question/443967466)
 1. [有哪些文艺的拜年文案？](https://www.zhihu.com/question/442938241)
 1. [如何评价岳云鹏和孙越在 2021 央视春晚上表演的相声《年三十的歌》？](https://www.zhihu.com/question/443968904)
@@ -133,17 +134,17 @@
 1. [如何评价王一博在 2021 央视春晚中的表现？](https://www.zhihu.com/question/443970375)
 1. [爸妈认为公务员老师医生等体制内才是正经工作，春节劝我辞职，我该怎么让爸妈认识到我在互联网工作也不错？](https://www.zhihu.com/question/443810427)
 1. [跟男朋友吵架，我浇了他一头啤酒，他扇了我三巴掌，我应该分手吗？](https://www.zhihu.com/question/443638273)
-1. [如何看待美国政府要求联邦法院暂停 TikTok 禁令？](https://www.zhihu.com/question/443938977)
 1. [如何看待辰东小说《圣墟》大结局？](https://www.zhihu.com/question/443876836)
+1. [如何看待美国政府要求联邦法院暂停 TikTok 禁令？](https://www.zhihu.com/question/443938977)
+1. [多地倡导就地过年，道理我都懂，可是我不会做饭，一人在出租屋咋过？吃饭问题该怎么解决？](https://www.zhihu.com/question/438270911)
 1. [男生会不会找一个不爱但是不讨厌的人结婚？](https://www.zhihu.com/question/440976244)
 1. [如何看待丈夫欲性侵 13 岁继女被妻子锤杀，妻子被控故意杀人，此前曾遭多次家暴 ？](https://www.zhihu.com/question/436107280)
-1. [多地倡导就地过年，道理我都懂，可是我不会做饭，一人在出租屋咋过？吃饭问题该怎么解决？](https://www.zhihu.com/question/438270911)
 1. [大家可以分享特别可爱有趣的背景图、壁纸、头像之类的吗？](https://www.zhihu.com/question/442256307)
 1. [怎么看待燃油期货在节前交易时间最后三秒内暴跌10%？](https://www.zhihu.com/question/443794871)
 1. [当年爸妈不让你嫁的人你嫁了吗？](https://www.zhihu.com/question/443594106)
-1. [为什么应届生的身份这么值钱？](https://www.zhihu.com/question/296366864)
-1. [有一天院儿里的猪和你说，他们是有着高智慧的猪星人，早已搜集齐了人类信息，马上大举入侵地球，你怎么办？](https://www.zhihu.com/question/443584192)
 1. [高中开学怎么做才能让全校震惊?](https://www.zhihu.com/question/443563059)
+1. [有一天院儿里的猪和你说，他们是有着高智慧的猪星人，早已搜集齐了人类信息，马上大举入侵地球，你怎么办？](https://www.zhihu.com/question/443584192)
+1. [为什么应届生的身份这么值钱？](https://www.zhihu.com/question/296366864)
 1. [2021 年春节联欢晚会的舞美和服装造型，有哪些亮点和特色？](https://www.zhihu.com/question/443967441)
 1. [2021 年初，想买一部 3000 元左右的手机有哪些推荐？](https://www.zhihu.com/question/437319390)
 1. [你读过最冷门，但「含金量极高」的书是什么？](https://www.zhihu.com/question/438708854)
@@ -190,7 +191,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Fri Feb 12 2021 06:09:30 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Feb 12 2021 06:16:12 GMT+0800 (CST) -->
 1. [拜年达人刘玄德！](https://www.zhihu.com/zvideo/1343183719264313344)
 1. [潜入：美国人坐下！中国人要开始吃肉了](https://www.zhihu.com/zvideo/1343198419779829760)
 1. [老饭骨给大家拜年啦！](https://www.zhihu.com/zvideo/1343303977207799809)
@@ -215,8 +216,8 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Fri Feb 12 2021 06:09:30 GMT+0800 (CST) -->
-1. [春暖中国](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%9A%96%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
+<!-- 最后更新时间 Fri Feb 12 2021 06:16:12 GMT+0800 (CST) -->
+1. [陪你过年](https://s.weibo.com//weibo?q=%23%E9%99%AA%E4%BD%A0%E8%BF%87%E5%B9%B4%23&Refer=new_time)
 1. [薇娅是不是穿了唐艺昕的毛衣](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A9%BF%E4%BA%86%E5%94%90%E8%89%BA%E6%98%95%E7%9A%84%E6%AF%9B%E8%A1%A3&Refer=top)
 1. [不允许BBC继续在中国境内落地](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%85%81%E8%AE%B8BBC%E7%BB%A7%E7%BB%AD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A2%83%E5%86%85%E8%90%BD%E5%9C%B0%23&Refer=top)
 1. [杨幂金晨李沁过于养眼](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E9%87%91%E6%99%A8%E6%9D%8E%E6%B2%81%E8%BF%87%E4%BA%8E%E5%85%BB%E7%9C%BC%23&Refer=top)
@@ -238,17 +239,17 @@
 1. [张梓琳怀孕6个月状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A2%93%E7%90%B3%E6%80%80%E5%AD%956%E4%B8%AA%E6%9C%88%E7%8A%B6%E6%80%81%23&Refer=top)
 1. [刘德华王一博关晓彤都属牛](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%85%B3%E6%99%93%E5%BD%A4%E9%83%BD%E5%B1%9E%E7%89%9B%23&Refer=top)
 1. [张小斐毛衣](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%AF%9B%E8%A1%A3%23&Refer=top)
-1. [牛年第一条微博](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&Refer=top)
+1. [郑州东站到了](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%9C%E7%AB%99%E5%88%B0%E4%BA%86%23&Refer=top)
 1. [除夕的夜空](https://s.weibo.com//weibo?q=%23%E9%99%A4%E5%A4%95%E7%9A%84%E5%A4%9C%E7%A9%BA%23&Refer=top)
 1. [春晚到底有几个李宇春](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%99%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%87%A0%E4%B8%AA%E6%9D%8E%E5%AE%87%E6%98%A5%23&Refer=top)
-1. [郑州东站到了](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%9C%E7%AB%99%E5%88%B0%E4%BA%86%23&Refer=top)
-1. [清空购物车](https://s.weibo.com//weibo?q=%E6%B8%85%E7%A9%BA%E8%B4%AD%E7%89%A9%E8%BD%A6&Refer=top)
 1. [唐艺昕毛衣](https://s.weibo.com//weibo?q=%E5%94%90%E8%89%BA%E6%98%95%E6%AF%9B%E8%A1%A3&Refer=top)
+1. [清空购物车](https://s.weibo.com//weibo?q=%E6%B8%85%E7%A9%BA%E8%B4%AD%E7%89%A9%E8%BD%A6&Refer=top)
+1. [牛年第一条微博](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&Refer=top)
 1. [墨西哥批准紧急使用两款中国新冠疫苗](https://s.weibo.com//weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%89%B9%E5%87%86%E7%B4%A7%E6%80%A5%E4%BD%BF%E7%94%A8%E4%B8%A4%E6%AC%BE%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97&Refer=top)
 1. [朱鹮绝美](https://s.weibo.com//weibo?q=%E6%9C%B1%E9%B9%AE%E7%BB%9D%E7%BE%8E&Refer=top)
 1. [盖娅传说](https://s.weibo.com//weibo?q=%23%E7%9B%96%E5%A8%85%E4%BC%A0%E8%AF%B4%23&Refer=top)
-1. [守岁](https://s.weibo.com//weibo?q=%E5%AE%88%E5%B2%81&Refer=top)
 1. [春晚魔术](https://s.weibo.com//weibo?q=%E6%98%A5%E6%99%9A%E9%AD%94%E6%9C%AF&Refer=top)
+1. [守岁](https://s.weibo.com//weibo?q=%E5%AE%88%E5%B2%81&Refer=top)
 1. [全国1亿多人就地过年](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD1%E4%BA%BF%E5%A4%9A%E4%BA%BA%E5%B0%B1%E5%9C%B0%E8%BF%87%E5%B9%B4%23&Refer=top)
 1. [明天会更好 经典就是经典](https://s.weibo.com//weibo?q=%E6%98%8E%E5%A4%A9%E4%BC%9A%E6%9B%B4%E5%A5%BD%20%E7%BB%8F%E5%85%B8%E5%B0%B1%E6%98%AF%E7%BB%8F%E5%85%B8&Refer=top)
 1. [春晚红口罩](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%99%9A%E7%BA%A2%E5%8F%A3%E7%BD%A9%23&Refer=top)
@@ -263,9 +264,10 @@
 1. [新年表情包](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E8%A1%A8%E6%83%85%E5%8C%85&Refer=top)
 1. [核酸检测门诊医务人员的新春愿望](https://s.weibo.com//weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%97%A8%E8%AF%8A%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E7%9A%84%E6%96%B0%E6%98%A5%E6%84%BF%E6%9C%9B%23&Refer=top)
 1. [包饺子](https://s.weibo.com//weibo?q=%E5%8C%85%E9%A5%BA%E5%AD%90&Refer=top)
-1. [新闻联播主播拜年](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E4%B8%BB%E6%92%AD%E6%8B%9C%E5%B9%B4%23&Refer=top)
 1. [让红包飞](https://s.weibo.com//weibo?q=%E8%AE%A9%E7%BA%A2%E5%8C%85%E9%A3%9E&Refer=top)
+1. [新闻联播主播拜年](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E4%B8%BB%E6%92%AD%E6%8B%9C%E5%B9%B4%23&Refer=top)
 1. [福牛](https://s.weibo.com//weibo?q=%E7%A6%8F%E7%89%9B&Refer=top)
+1. [春暖中国](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%9A%96%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
 1. [首都除夕护卫健康](https://s.weibo.com//weibo?q=%23%E9%A6%96%E9%83%BD%E9%99%A4%E5%A4%95%E6%8A%A4%E5%8D%AB%E5%81%A5%E5%BA%B7%23&Refer=new_time)
 1. [郑州东站到了](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E4%B8%9C%E7%AB%99%E5%88%B0%E4%BA%86&Refer=top)
 1. [新年快乐](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&Refer=top)
@@ -295,7 +297,6 @@
 1. [春晚到底有几个李宇春](https://s.weibo.com//weibo?q=%E6%98%A5%E6%99%9A%E5%88%B0%E5%BA%95%E6%9C%89%E5%87%A0%E4%B8%AA%E6%9D%8E%E5%AE%87%E6%98%A5&Refer=top)
 1. [大国重器拜大年](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E6%8B%9C%E5%A4%A7%E5%B9%B4&Refer=top)
 1. [左撇子不服](https://s.weibo.com//weibo?q=%23%E5%B7%A6%E6%92%87%E5%AD%90%E4%B8%8D%E6%9C%8D%23&Refer=top)
-1. [陪你过年](https://s.weibo.com//weibo?q=%23%E9%99%AA%E4%BD%A0%E8%BF%87%E5%B9%B4%23&Refer=new_time)
 1. [王源都长大了月亮姐姐还没老](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%BA%90%E9%83%BD%E9%95%BF%E5%A4%A7%E4%BA%86%E6%9C%88%E4%BA%AE%E5%A7%90%E5%A7%90%E8%BF%98%E6%B2%A1%E8%80%81&Refer=top)
 1. [张国立节目感觉在看国家宝藏](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%9B%BD%E7%AB%8B%E8%8A%82%E7%9B%AE%E6%84%9F%E8%A7%89%E5%9C%A8%E7%9C%8B%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F%23&Refer=top)
 1. [杨幂金晨李沁过于养眼](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E9%87%91%E6%99%A8%E6%9D%8E%E6%B2%81%E8%BF%87%E4%BA%8E%E5%85%BB%E7%9C%BC&Refer=top)
